@@ -1,1 +1,2 @@
-# odin-recipes
+This project is a task given from the odin project where I will put the html skills that I've learnt to test.. Hopefully, I will do a good work.
+Most likely I will use some basic html functions like headers, paragraphs, lists, images, links and such.
